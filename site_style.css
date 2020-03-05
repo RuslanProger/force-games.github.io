@@ -1,0 +1,9 @@
+.block {
+width: 100%;
+height: 400px;
+background: #cccccc;
+}
+
+body {
+	margin: 0 auto;
+}
